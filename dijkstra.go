@@ -1,4 +1,4 @@
-package main
+package codesnippets
 
 import (
 	"container/heap"
